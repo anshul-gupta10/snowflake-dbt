@@ -1,5 +1,8 @@
 
 .venv/
+a-commands/
+
+--dbt
 target/
 dbt_packages/
 logs/
